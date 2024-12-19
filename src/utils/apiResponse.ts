@@ -1,4 +1,4 @@
-// app/utils/apiResponse.ts
+// src/app/utils/apiResponse.ts
 
 import { ApiResponseSchema } from "@/schemas/apiResponseSchema";
 import { ApiResponse } from "@/types/types";
